@@ -3,7 +3,7 @@ php
 
 In this example we have the following object hierarchy
 
-  
+<pre>  
 Vehicle       Person
   |             |
   V             V
@@ -17,7 +17,7 @@ The base classes also implement a common interface
    |           |
    V           V
 Vehicle      Person
-
+</pre>
 
 Vehicle and Person are "abstract" classes which we are using as base classes.
 
